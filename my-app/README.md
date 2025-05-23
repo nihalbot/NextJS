@@ -35,7 +35,6 @@
  - in this seniario we have to use catch all route 
  - To create this type of route create a folder in like [...name_of_route]
  - It will be handle multiple route.
-
 # Navigate one page to another
  - There are two way in client side to navigate one page to another 
  - By using Link and useRouter()
@@ -43,3 +42,9 @@
  - It is a simple way just use <Link></Link> tag and inser href inside it and give the routing page inside it.
  - To use useRouter() it is a hook it will import from next/navigation
  - Create a variable to call useRouter() it will return multiple object to use navigate one page to another we need to create a onClick handaler and use the variable name.push("") to navigate
+
+# Navigate from server component to differant component
+# Getting current url or slug in client side
+# Getting current url or slug in server side
+# Data fetching in client and server componnent
+

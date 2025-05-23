@@ -30,7 +30,7 @@ export default function Home() {
         <h1 className="font-bold text-2xl">Alternative way of navigate</h1>
         <button
           onClick={handleproduct}
-          className="px-6 py-4 bg-blue-500 rounded-lg text-white font-bold cursor-pointer"
+          className="px-6 py-4 bg-blue-500 rounded-lg text-white font-bold cursor-pointer me-2"
         >
           Products
         </button>
